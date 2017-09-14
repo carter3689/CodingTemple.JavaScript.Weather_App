@@ -1,0 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
+.nested.panel {
+  margin-top: 0 !important;
+}
